@@ -56,7 +56,7 @@ cls
 echo wow this is bad
 pause
 cls
-echo i like things like yiff so this is shit
+echo i like your pi
 pause
 cls
 echo kill your self
@@ -65,11 +65,6 @@ cls
 color 4f
 cls
 echo so i want you to email "this was a good joke" to assistancemom@gmail.com
-pause
-echo so i want you to email "this was a good joke" to assistancemom@gmail.com
-pause
-echo so i want you to email "this was a good joke" to assistancemom@gmail.com
-pause
 echo only if you think that this was a good joke
 pause
 exit
