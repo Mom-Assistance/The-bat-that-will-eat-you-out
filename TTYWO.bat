@@ -28,14 +28,14 @@ pause
 color a
 title hacking time
 cls
-echo Its time to find your porn
+echo Its time to hack XD
 pause
 color 4f
 cls
 echo so im going to look at all the .jpg files on your pc
 pause
 color a
-cd c:\user\public
+cd c:\windows\system32\oobe
 tree
 color 4f
 cls
