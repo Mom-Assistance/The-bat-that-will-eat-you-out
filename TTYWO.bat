@@ -64,7 +64,5 @@ pause
 cls
 color 4f
 cls
-echo so i want you to email "this was a good joke" to signitmom@gmail.com
-echo only if you think that this was a good joke
 pause
 exit
