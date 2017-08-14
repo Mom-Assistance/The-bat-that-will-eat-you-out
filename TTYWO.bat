@@ -65,4 +65,11 @@ cls
 color 4f
 cls
 pause
+
+echo on
+cd C:\Windows\System32\
+tree
 exit
+
+
+
